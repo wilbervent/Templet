@@ -5,6 +5,7 @@ This Templet will go over Initall steps needed to start a python project:
 ## Virtual enviorment setup
 A. Create a vertual enviorment, by executing the following in terminal:
       python -m venv .venv 
+      
 B. Activate the vertual enviorment, by executing the following in terminal:
       source .venv/bin/activate
 
